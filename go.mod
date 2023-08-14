@@ -33,7 +33,7 @@ require (
 	github.com/prometheus/common v0.10.0
 	github.com/stretchr/testify v1.7.0
 	golang.org/x/net v0.0.0-20210226172049-e18ecbb05110
-	golang.org/x/sys v0.0.0-20211116061358-0a5406a5449c
+	golang.org/x/sys v0.1.0
 	google.golang.org/grpc v1.33.2
 	k8s.io/klog/v2 v2.4.0
 	k8s.io/utils v0.0.0-20201110183641-67b214c5f920
