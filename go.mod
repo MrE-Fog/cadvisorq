@@ -11,7 +11,7 @@ require (
 	github.com/containerd/ttrpc v1.1.0
 	github.com/containerd/typeurl v1.0.2
 	github.com/docker/distribution v2.8.2+incompatible // indirect
-	github.com/docker/docker v20.10.24+incompatible
+	github.com/docker/docker v24.0.7+incompatible
 	github.com/docker/go-connections v0.4.0
 	github.com/docker/go-units v0.4.0
 	github.com/euank/go-kmsg-parser v2.0.0+incompatible
